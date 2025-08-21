@@ -1,0 +1,2 @@
+# .github
+Outsell Consulting
